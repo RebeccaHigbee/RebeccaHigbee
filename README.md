@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RebeccaHigbee
+- 👀 I’m interested in Data Analytics and Statistics
+- 🌱 I’m currently learning cleaning and aggregating data using packages in R such as tidyverse
+- 💞️ I’m looking to collaborate on anything data analytics
+- 📫 How to reach me: rhigbee4lds@gmail.com
