@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RebeccaHigbee
+- 👋 Hi, I’m @RebeccaHull
 - 👀 I’m interested in Data Analytics and Statistics
 - 🌱 I’m currently growing my skills in cleaning and aggregating data using packages in R such as tidyverse
 - 💞️ I’m looking to collaborate on anything data analytics
